@@ -3,7 +3,7 @@
 
 オープンソースデータベースシステムPostgreSQLのソースコードを解きほぐしながら，データベースシステムがどのようにできているのかを学ぶための本です。
 
-![ポスグレ解体新書 表紙](https://raw.github.com/hayamiz/pganatomy/master/cover.png)
+![ポスグレ解体新書 表紙](https://raw.github.com/hayamiz/pganatomy/master/src/images/cover.png)
 
 
 リリース(出版)履歴
